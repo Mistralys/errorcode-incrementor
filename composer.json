@@ -1,6 +1,6 @@
 {
   "name": "mistralys/errorcode-incrementor",
-  "description": "Simple PHP script that increments a counter when accessed, and the displays the current count.",
+  "description": "Simple PHP script that increments counters via HTTP requests or programmatically.",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
