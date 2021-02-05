@@ -1,0 +1,5 @@
+docs/phpstan/cache/
+docs/phpstan/resultCaches/
+docs/phpstan/resultCache.php
+docs/phpstan/output.txt
+vendor/
