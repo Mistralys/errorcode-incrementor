@@ -4,3 +4,5 @@
  */
 
     define('COUNTERS_PASSWORD', 'password');
+
+    define('COUNTERS_UPDATE_DELAY', 10);
