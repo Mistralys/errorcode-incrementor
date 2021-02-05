@@ -1,0 +1,25 @@
+{
+  "name": "mistralys/errorcode-incrementor",
+  "description": "Simple PHP script that increments a counter when accessed, and the displays the current count.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastian Mordziol",
+      "email": "s.mordziol@mistralys.eu"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/functions.php"
+    ],
+    "classmap": [
+      "src"
+    ]
+  },
+  "require": {
+  },
+  "require-dev": {
+    "phpstan/phpstan": ">=0.12.71"
+  }
+}
