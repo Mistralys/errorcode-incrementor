@@ -1,0 +1,6 @@
+parameters:
+    tmpDir: ./
+    bootstrapFiles:
+        - ./bootstrap.php
+    paths:
+        - ../../src
