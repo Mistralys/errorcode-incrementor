@@ -8,6 +8,12 @@
 	define('COUNTERS_PASSWORD', '');
 
     /**
+     * Minimum delay between updates of the same counter, to avoid
+     * DOS attacks or spamming counters.
+     */
+	define('COUNTERS_UPDATE_DELAY', 10);
+
+    /**
      * Add an entry in the array with counter names for all separate
      * counters you wish to use, and the number they should start at.
      */
