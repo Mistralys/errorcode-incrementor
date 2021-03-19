@@ -60,7 +60,7 @@ class ServeViaHTTP
         try
         {
             header('Content-Type:text/plain');
-            echo $this->counter->getNumber();
+            echo $this->counter->getNumber().'01';
         }
         catch (Exception $e)
         {
